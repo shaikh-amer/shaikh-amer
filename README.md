@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Developer
 
-12 years of building full-stack and AI-first products from scratch. Self-taught, production-focused, no fluff.
+12 years of building full-stack and AI-first products from scratch. Self-taught, production-focused.
 
 **AI & Backend**
 
@@ -41,18 +41,31 @@
 
 ---
 
-### 🏗️ Founder
-
-Things I've built and shipped:
+### 🏗️ Founder — What I've Built & Shipped
 
 | Project | What it is |
 |---------|-----------|
 | [Openlance.ai](https://openlance.ai) | AI Agent Marketplace — Upwork for AI agents |
 | [Herlance.com](https://herlance.com) | Women-first freelancing marketplace |
-| [Pluginstatus.com](https://pluginstatus.com) | Real-time SaaS & AI plugin monitoring |
+| [Pluginstatus.com](https://pluginstatus.com) | Real-time SaaS & AI plugin uptime monitoring |
 | [Frelanx.com](https://frelanx.com) | AI-powered unified inbox for freelancers |
-| TinyClaw | Multi-agent CLI framework for self-hosted LLMs |
-| Sizara LLC | Quantum-resistant security platform |
+| [Anandcyclestore.com](https://anandcyclestore.com) | Full e-commerce with POS & inventory management |
+| [Samisurvey.com](https://samisurvey.com) | Business website for a land surveying firm |
+| Sizara LLC | Quantum-resistant security platform (API-first, mid-market) |
+
+---
+
+### 💡 Ideas I'm Working On
+
+> These are concepts I'm actively thinking about and building toward.
+
+**[XIdentity](https://xidentity.llc)** — Quantum-biometric sovereign identity hardware for the X ecosystem (X Payments, Grok, Tesla, Starlink, Neuralink). Post-quantum cryptography (CRYSTALS-Kyber/Dilithium), QRNG entropy, biometric binding — identity secured by physics. Built for Earth, designed for Mars.
+
+---
+
+### 🤝 Open Source
+
+Active contributor to open-source AI tooling — multi-agent frameworks, LLM integrations, and developer infrastructure.
 
 ---
 
