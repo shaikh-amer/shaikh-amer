@@ -3,7 +3,7 @@
 # Shaikh Amer
 
 **Full Stack Developer & Founder · Hyderabad, India 🇮🇳**
-
+[![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge)](https://e2b.dev/startups)
 [![Portfolio](https://img.shields.io/badge/shaikhamer.com-FF4A79?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shaikhamer.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikh-amer)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhamer5547@gmail.com)
