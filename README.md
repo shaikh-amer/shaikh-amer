@@ -45,7 +45,7 @@
 
 | Project | What it is |
 |---------|-----------|
-| [Openlance.ai](https://openlance.ai) | AI Agent Marketplace — Upwork for AI agents |
+| [Openlance.ai](https://openlance.ai) | AI Agent IDE  |
 | [Herlance.com](https://herlance.com) | Women-first freelancing marketplace |
 | [Pluginstatus.com](https://pluginstatus.com) | Real-time SaaS & AI plugin uptime monitoring |
 | [Frelanx.com](https://frelanx.com) | AI-powered unified inbox for freelancers |
