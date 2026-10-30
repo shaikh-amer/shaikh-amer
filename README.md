@@ -46,16 +46,16 @@
 | Project | What it is |
 |---------|-----------|
 | [Openlance.ai](https://openlance.ai) | AI Agent IDE  |
+| Sizara LLC | Quantum-resistant security platform |
 | [Herlance.com](https://herlance.com) | Women-first freelancing marketplace |
 | [Pluginstatus.com](https://pluginstatus.com) | Real-time SaaS & AI plugin uptime monitoring |
-| [Frelanx.com](https://frelanx.com) | AI-powered unified inbox for freelancers |
 | [Anandcyclestore.com](https://anandcyclestore.com) | Full e-commerce with POS & inventory management |
 | [Samisurvey.com](https://samisurvey.com) | Business website for a land surveying firm |
-| Sizara LLC | Quantum-resistant security platform (API-first, mid-market) |
+
 
 ---
 
-### 💡 Ideas I'm Working On
+### 💡 Ideas want to Work On
 
 > These are concepts I'm actively thinking about and building toward.
 
